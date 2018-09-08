@@ -18,6 +18,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 text.setText("wokao");
+                /**
+                 * 到底怎么合并代码
+                 * fetch实验
+                 */
+
+                text.setText("");
             }
         });
     }
