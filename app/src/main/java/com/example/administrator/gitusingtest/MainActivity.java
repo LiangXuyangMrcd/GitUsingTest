@@ -19,18 +19,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 text.setText("wokao");
                 /**
-                 * 到底怎么合并代码
-                 * fetch实验
-                 *
-                 *
-                 * 不知道怎么用fetch啊
-                 * 我也不知道怎么用啊，大兄弟
-                 *
-                 * 两位太笨了，哈哈哈哈
-                 *
-                 * LALALA    我是卖报的小行家
-                 * 人生若只如初见,哎，
-                 * 何事秋风悲画扇
+                 * pull测试终端
+                 * 我在这里合并冲突
                  */
 
                 text.setText("");
