@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
                 /**
                  * 到底怎么合并代码
                  * fetch实验
+                 *
+                 *
+                 * 不知道怎么用fetch啊
                  */
 
                 text.setText("");
