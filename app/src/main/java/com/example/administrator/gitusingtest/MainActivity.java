@@ -18,19 +18,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 /**
-                 * 到底怎么合并代码
-                 * fetch实验
-                 *
-                 *
-                 * 不知道怎么用fetch啊
-                 * 我也不知道怎么用啊，大兄弟
-                 *
-                 * 两位太笨了，哈哈哈哈
-                 * 人生若只如初见,哎，
-                 * 何事秋风悲画扇
-                 *
                  * pull 方法测试
-                 * 嗯，测试吧
+                 * 我是测试员
                  */
 
                 text.setText("");
