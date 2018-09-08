@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
                  * 两位太笨了，哈哈哈哈
                  *
                  * LALALA    我是卖报的小行家
+                 * 人生若只如初见,哎，
+                 * 何事秋风悲画扇
                  */
 
                 text.setText("");
