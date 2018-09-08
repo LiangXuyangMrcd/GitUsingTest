@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
                  *
                  *
                  * 不知道怎么用fetch啊
+                 * 我也不知道怎么用啊，大兄弟
                  */
 
                 text.setText("");
