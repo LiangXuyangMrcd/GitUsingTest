@@ -28,6 +28,9 @@ public class MainActivity extends AppCompatActivity {
                  * 两位太笨了，哈哈哈哈
                  * 人生若只如初见,哎，
                  * 何事秋风悲画扇
+                 *
+                 * pull 方法测试
+                 * 嗯，测试吧
                  */
 
                 text.setText("");
