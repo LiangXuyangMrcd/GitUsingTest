@@ -17,7 +17,8 @@ public class MainActivity extends AppCompatActivity {
         text.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                //123456
+                // i am the comment
             }
         });
     }
