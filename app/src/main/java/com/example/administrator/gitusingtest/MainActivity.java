@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 text.setText("wokao");
                 /**
+                 * pull 方法测试
+                 * 我是测试员
                  * pull测试终端
                  * 我在这里合并冲突
                  */
