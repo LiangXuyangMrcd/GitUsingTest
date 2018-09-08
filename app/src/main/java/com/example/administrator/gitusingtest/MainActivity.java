@@ -12,13 +12,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TextView text = findViewById(R.id.text);
+        final TextView text = findViewById(R.id.text);
         text.setText("哈哈哈");
         text.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //123456
-                // i am the comment
+                /**
+                 * 到底怎么合并代码
+                 * fetch实验
+                 */
+
+                text.setText("");
             }
         });
     }
