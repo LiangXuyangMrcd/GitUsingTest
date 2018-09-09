@@ -31,11 +31,15 @@ public class MainActivity extends AppCompatActivity {
                 //无奈啊
                 //1
                 //2
+<<<<<<< HEAD
 
 
                 //qwe
                 //asd
                 //zxc
+=======
+                //3
+>>>>>>> git rebase 3
             }
         });
     }
