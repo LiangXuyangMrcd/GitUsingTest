@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 text.setText("");
                 //1
                 //2
+                //3
 
             }
         });
