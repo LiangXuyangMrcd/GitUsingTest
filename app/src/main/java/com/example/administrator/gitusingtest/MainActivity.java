@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
                  * 我在这里合并冲突
                  */
                 text.setText("");
-                //1
 
             }
         });
