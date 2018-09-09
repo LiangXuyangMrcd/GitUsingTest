@@ -25,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
                  * 我在这里合并冲突
                  */
                 text.setText("");
+
+                //创建了新分支
+                //新分支增加的内容
+                //无奈啊
             }
         });
     }
