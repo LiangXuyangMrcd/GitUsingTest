@@ -28,5 +28,9 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+        String newContent = "";
+        newContent = "123456";
+        text.setText(newContent);
     }
 }
