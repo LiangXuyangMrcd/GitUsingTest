@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
                 text.setText("wokao");
                 /**
                  * pull 方法测试
-                 * 我是测试员
-                 * pull测试终端
+                 * fdgreg
+                 * 456
                  * 我在这里合并冲突
                  */
                 text.setText("");
