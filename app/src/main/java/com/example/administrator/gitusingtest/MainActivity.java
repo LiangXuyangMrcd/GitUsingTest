@@ -18,11 +18,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 /**
-                 * pull 方法测试
-                 * 111
-                 * 222
-                 * 333
-                 * 我是测试员
+                 * 主工程修改
                  */
 
                 text.setText("");
