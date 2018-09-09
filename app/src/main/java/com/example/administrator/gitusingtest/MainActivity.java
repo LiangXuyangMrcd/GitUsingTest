@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                  * pull测试终端
                  * 我在这里合并冲突
                  */
+                //1
                 text.setText("");
 
             }
