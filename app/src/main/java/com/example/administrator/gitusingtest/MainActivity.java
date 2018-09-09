@@ -19,14 +19,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 text.setText("wokao");
                 /**
-                 * pull 方法测试
-                 * fdgreg
-                 * 456
-                 * 我在这里合并冲突
-                 * 111
-                 * 222
-                 * 333
-                 * 我是测试员
+                 * p测试员修改
                  */
                 text.setText("");
 
