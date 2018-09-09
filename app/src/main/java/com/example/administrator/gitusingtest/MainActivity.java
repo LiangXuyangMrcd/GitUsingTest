@@ -26,13 +26,6 @@ public class MainActivity extends AppCompatActivity {
                  */
                 text.setText("");
 
-                //创建了新分支
-                //新分支增加的内容
-                //无奈啊
-                //1
-                //2
-                //3
-
             }
         });
     }
