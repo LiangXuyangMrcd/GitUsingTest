@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 /**
                  * MarkDown 测试
                  *
-                 * 
+                 *
                  */
                 text.setText("");
 
